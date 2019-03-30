@@ -1,0 +1,782 @@
+[
+  {
+    "title": "Halli Galli",
+    "description": "Halli Galli is a speed action game in which players watch for sets of exactly five fruit. The deck contains 56 playing cards showing four kinds of fruit in groups of 1 to 5 and a bell of the type found at hotel reception desks.<br><br>The deck is distributed evenly between the players. All players hold their deck face down and take turns dealing one card face up in front of them. As each player reveals her next card, the instant you see a total of five of one kind of fruit on the table, hit the bell. If you're correct, you pick up all the played cards and put them into your deck; if you're wrong, you pay the other players one card each. When you run out of cards, you're out. When two players are left, they play until the bell is struck once more, then the game ends and the taller deck wins.",
+    "img": "halli_galli.jpg",
+    "complexity": 1.01,
+    "min_length": 10,
+    "max_length": 10,
+    "min_players": 2,
+    "max_players": 6
+  },
+  {
+    "title": "One Night Ultimate Werewolf",
+    "description": "In One Night Werewolf, a simplified version of Werewolf, there is a single night phase and a single day phase. As in werewolf, players are dealt roles which are kept hidden for the duration of the game. During the night phase, players who have the Sorcerer, the Werewolves, and the Phantom Thief each wake up and perform their special action for 10 seconds. During the day phase, players discuss who the werewolves are (or if there even are werewolves). Then all players vote simultaneously for a player. The player with the most votes is killed. If at least one werewolf is killed, the Human team wins. If no werewolf is killed, the Werewolf team wins.",
+    "img": "one_night_werewolf.jpg",
+    "complexity": 1.2,
+    "min_length": 10,
+    "max_length": 10,
+    "min_players": 3,
+    "max_players": 7
+  },
+  {
+    "title": "Spyfall 2",
+    "description": "Spyfall is a party game unlike any other, one in which you get to be a spy and try to understand what's going on around you. It's really simple!<br><br>Spyfall is played over several rounds, and at the start of each round all players receive cards showing the same location — except that one player receives a card that says \"Spy\" instead of the location. Players then start asking each other questions — \"Why are you dressed so strangely?\" or \"When was the last time we got a payday?\" or anything else you can come up with — trying to guess who among them is the spy. The spy doesn't know where he is, so he has to listen carefully. When it's his time to answer, he'd better create a good story!<br><br>At any time during a round, one player may accuse another of being a spy. If all other players agree with the accusation, the round ends and the accused player has to reveal his identity. If the spy is uncovered, all other players score points. However, the spy can himself end a round by announcing that he understands what the secret location is; if his guess is correct, only the spy scores points.<br><br>After a few rounds of guessing, suspicion and bluffing, the game ends and whoever has scored the most points is victorious!<br><br>Spyfall 2 features the same gameplay as Spyfall with two important changes: (1) Enough location cards are included that the upper player count is now twelve instead of eight, and (2) two spies can be found at each location, giving all of the non-spy players more of a challenge when it comes to tracking down who doesn't belong.",
+    "img": "spyfall_2.jpg",
+    "complexity": 1.18,
+    "min_length": 10,
+    "max_length": 10,
+    "min_players": 3,
+    "max_players": 12
+  },
+  {
+    "title": "We didn't playtest this",
+    "description": "The most aptly named game ever!<br><br>In this exceptionally silly and awesome game, your objective is to win! Simple enough. Sadly, all of your opponents have the same simple goal, and they're trying to make you lose. Between Rock Paper Scissors battles, being eaten by a random Dragon, or saved by a Kitten Ambush, there are many hazards to avoid.<br><br>Everyone starts with 2 cards. On your turn, draw one card from the deck, and then play one from your hand following the instructions on the card. There are many hazards to avoid, including: bombs, dragons, arrows, laser pointers, black holes, Rock Paper Scissors battles, number battles, zombies, etc. Luckily items abound that can save you, too: spaceships, science, shields, dinosaurs and a kitten ambush!<br><br>There are Star Cards: they are clearly superior to normal cards. Every player has an equal chance of drawing a Star Card from the deck.",
+    "img": "we_didn't_playtest_this.jpg",
+    "complexity": 1.1,
+    "min_length": 1,
+    "max_length": 10,
+    "min_players": 2,
+    "max_players": 10
+  },
+  {
+    "title": "Bananagrams",
+    "description": "Bananagrams is a fast and fun word game that requires no pencil, paper or board, and the tiles come in a fabric banana-shaped carrying pouch. One hand can be played in as little as five minutes. Much like Pick Two!, but without the letter values.<br><br>Using a selection of 144 plastic letter tiles in the English edition, each player works independently to create their own 'crossword' faster than one's opponents. When a player uses up all their letters, all players take a new tile from the pool. The object of the game is to be the first to complete a word grid after the \"bunch\" of tiles has been depleted.",
+    "img": "bananagrams.jpg",
+    "complexity": 1.36,
+    "min_length": 15,
+    "max_length": 15,
+    "min_players": 1,
+    "max_players": 8
+  },
+  {
+    "title": "Codenames",
+    "description": "Two rival spymasters know the secret identities of 25 agents. Their teammates know the agents only by their CODENAMES.<br><br>In Codenames, two teams compete to see who can make contact with all of their agents first. Spymasters give one-word clues that can point to multiple words on the board. Their teammates try to guess words of the right color while avoiding those that belong to the opposing team. And everyone wants to avoid the assassin.<br><br>Codenames: Win or lose, it's fun to figure out the clues.",
+    "img": "codenames.jpg",
+    "complexity": 1.32,
+    "min_length": 15,
+    "max_length": 15,
+    "min_players": 2,
+    "max_players": 8
+  },
+  {
+    "title": "Coup",
+    "description": "You are head of a family in an Italian city-state, a city run by a weak and corrupt court. You need to manipulate, bluff and bribe your way to power. Your object is to destroy the influence of all the other families, forcing them into exile. Only one family will survive...",
+    "img": "coup.jpg",
+    "complexity": 1.42,
+    "min_length": 15,
+    "max_length": 15,
+    "min_players": 2,
+    "max_players": 6
+  },
+  {
+    "title": "Exploding Kittens",
+    "description": "Exploding Kittens is a kitty-powered version of Russian Roulette. Players take turns drawing cards until someone draws an exploding kitten and loses the game. The deck is made up of cards that let you avoid exploding by peeking at cards before you draw, forcing your opponent to draw multiple cards, or shuffling the deck.<br><br>The game gets more and more intense with each card you draw because fewer cards left in the deck means a greater chance of drawing the kitten and exploding in a fiery ball of feline hyperbole.",
+    "img": "exploding_kittens.jpg",
+    "complexity": 1.07,
+    "min_length": 15,
+    "max_length": 15,
+    "min_players": 2,
+    "max_players": 5
+  },
+  {
+    "title": "Monster Rejects",
+    "description": "Monster Rejects is a ridiculous card game where a racist, homeless, senile, slutty and other reject monsters battle in four different realms.<br><br>The game is a modified, more strategic version of Crazy 8's combined with reject monsters and f*cked up mechanics.",
+    "img": "monster_rejects.jpg",
+    "complexity": 1,
+    "min_length": 15,
+    "max_length": 15,
+    "min_players": 2,
+    "max_players": 5
+  },
+  {
+    "title": "Spyfall",
+    "description": "Spyfall is a party game unlike any other, one in which you get to be a spy and try to understand what's going on around you. It's really simple!<br><br>Spyfall is played over several rounds, and at the start of each round all players receive cards showing the same location — a casino, a traveling circus, a pirate ship, or even a space station — except that one player receives a card that says \"Spy\" instead of the location. Players then start asking each other questions — \"Why are you dressed so strangely?\" or \"When was the last time we got a payday?\" or anything else you can come up with — trying to guess who among them is the spy. The spy doesn't know where he is, so he has to listen carefully. When it's his time to answer, he'd better create a good story!<br><br>At any time during a round, one player may accuse another of being a spy. If all other players agree with the accusation, the round ends and the accused player has to reveal his identity. If the spy is uncovered, all other players score points. However, the spy can himself end a round by announcing that he understands what the secret location is; if his guess is correct, only the spy scores points.<br><br>After a few rounds of guessing, suspicion and bluffing, the game ends and whoever has scored the most points is victorious!",
+    "img": "spyfall.jpg",
+    "complexity": 1.25,
+    "min_length": 15,
+    "max_length": 15,
+    "min_players": 3,
+    "max_players": 8
+  },
+  {
+    "title": "Tsuro: The Game of the Path",
+    "description": "A beautiful and beautifully simple game of laying a tile before your own token to continue its path on each turn. The goal is to keep your token on the board longer than anyone else's, but as the board fills up this becomes harder because there are fewer empty spaces left... and another player's tile may also extend your own path in a direction you'd rather not go. Easy to introduce to new players, Tsuro lasts a mere 15 minutes and actually does work for any number from 2 to 8.",
+    "img": "tsuro.jpg",
+    "complexity": 1.25,
+    "min_length": 15,
+    "max_length": 15,
+    "min_players": 2,
+    "max_players": 8
+  },
+  {
+    "title": "Between Two Cities",
+    "description": "It is the early 1800s, a time of immense construction and urbanization. You are a world-renowned master city planner who has been asked to redesign two different cities. Projects of such significance require the expertise of more than one person, so for each assignment, you are paired with a partner with whom to discuss and execute your grandiose plans. Will your planning and collaborative skills be enough to design the most impressive city in the world?<br><br>Between Two Cities is a partnership-driven tile-drafting game in which each tile represents part of a city: factory, shop, park, landmarks, etc. You work with the player on your left to design the heart of one city, and with the player on your right to design the heart of another city. On each turn, you select two tiles from hand, reveal them, then work with your partners separately to place one of those tiles into each of your two cities before passing the remaining hand of tiles around the table.<br><br>At the end of the game, each city is scored for its livability. Your final score is the lower of the livability scores of the two cities you helped design. To win, you have to share your attention and your devotion between two cities. The player with the highest final score wins the game.",
+    "img": "between_two_cities.jpg",
+    "complexity": 1.81,
+    "min_length": 20,
+    "max_length": 20,
+    "min_players": 1,
+    "max_players": 7
+  },
+  {
+    "title": "Hive",
+    "description": "Hive is a highly addictive strategic game for two players that is not restricted by a board and can be played anywhere on any flat surface. Hive is made up of twenty two pieces, eleven black and eleven white, resembling a variety of creatures each with a unique way of moving.<br><br>With no setting up to do, the game begins when the first piece is placed down. As the subsequent pieces are placed this forms a pattern that becomes the playing surface (the pieces themselves become the board). Unlike other such games, the pieces are never eliminated and not all have to be played. The object of the game is to totally surround your opponent's queen, while at the same time trying to block your opponent from doing likewise to your queen. The player to totally surround his opponent's queen wins the game.",
+    "img": "hive.jpg",
+    "complexity": 2.34,
+    "min_length": 20,
+    "max_length": 20,
+    "min_players": 2,
+    "max_players": 2
+  },
+  {
+    "title": "Love Letter",
+    "description": "All of the eligible young men (and many of the not-so-young) seek to woo the princess of Tempest. Unfortunately, she has locked herself in the palace, and you must rely on others to take your romantic letters to her. Will yours reach her first?<br><br>Love Letter is a game of risk, deduction, and luck for 2–4 players. Your goal is to get your love letter into Princess Annette's hands while deflecting the letters from competing suitors. From a deck with only sixteen cards, each player starts with only one card in hand; one card is removed from play. On a turn, you draw one card, and play one card, trying to expose others and knock them from the game. Powerful cards lead to early gains, but make you a target. Rely on weaker cards for too long, however, and your letter may be tossed in the fire!",
+    "img": "love_letter.jpg",
+    "complexity": 1.2,
+    "min_length": 20,
+    "max_length": 20,
+    "min_players": 2,
+    "max_players": 4
+  },
+  {
+    "title": "NMBR 9",
+    "description": "Numbers aren't worth anything in NMBR 9 unless they're off the ground floor and looking down from above.<br><br>The game includes twenty cards numbered 0-9 twice and eighty tiles numbered 0-9; each number tile is composed of squares in some arrangement. After shuffling the deck of cards, draw and reveal the first card. Each player takes a number tile matching the card and places it on the table. With each new card drawn after that, each player takes the appropriate number tile, then adds it to the tiles that they already have in play, with each player building their own arrangement of tiles.<br><br>The new tile must touch at least one other tile on the same level along one side of a square. A tile can also be placed on top of two or more other tiles as long as no part of the new tile overhangs the tiles below it; new tiles placed on this same level must touch at least one other tile, while also covering parts of at least two tiles and not overhanging.<br><br>Once all the cards have been drawn and the tiles placed, players take turns calculating their score. A tile on the bottom level — the 0th level, if you will — scores 0 points; a tile on the 1st level above this is worth as many points as the number on the tile; a tile on the 2nd level is worth twice the number on the tile; etc. Whoever scores the most points wins!",
+    "img": "nmbr9.jpg",
+    "complexity": 1.19,
+    "min_length": 20,
+    "max_length": 20,
+    "min_players": 1,
+    "max_players": 4
+  },
+  {
+    "title": "No Thanks!",
+    "description": "No Thanks! is a card game designed to be as simple as it is engaging.<br><br>The rules are simple. Each turn, players have two options:<br><br>\t>play one of their chips to avoid picking up the current face-up card<br>n\t>pick up the face-up card (along with any chips that have already been played on that card) and turn over the next card<br><br>However, the choices aren't so easy as players compete to have the lowest score at the end of the game. The deck of cards is numbered from 3 to 35, with each card counting for a number of points equal to its face value. Runs of two or more cards only count as the lowest value in the run - but nine cards are removed from the deck before starting, so be careful looking for connectors. Each chip is worth -1 point, but they can be even more valuable by allowing you to avoid drawing that unwanted card.",
+    "img": "no_thanks.jpg",
+    "complexity": 1.15,
+    "min_length": 20,
+    "max_length": 20,
+    "min_players": 3,
+    "max_players": 7
+  },
+  {
+    "title": "Santorini",
+    "description": "Santorini is a re-imagining of the purely abstract 2004 edition. Since its original inception over 30 years ago, Santorini has been continually developed, enhanced and refined by designer Gordon Hamilton.<br><br>Santorini is an accessible strategy game, simple enough for an elementary school classroom while aiming to provide gameplay depth and content for hardcore gamers to explore, The rules are simple. Each turn consists of 2 steps:<br><br>1. Move - move one of your builders into a neighboring space. You may move your Builder Pawn on the same level, step-up one level, or step down any number of levels.<br><br>2. Build - Then construct a building level adjacent to the builder you moved. When building on top of the third level, place a dome instead, removing that space from play.<br><br>Winning the game - If either of your builders reaches the third level, you win.<br><br>Variable player powers - Santorini features variable player powers layered over an otherwise abstract game, with 40 thematic god and hero powers that fundamentally change the way the game is played.",
+    "img": "santorini.jpg",
+    "complexity": 1.78,
+    "min_length": 20,
+    "max_length": 20,
+    "min_players": 2,
+    "max_players": 4
+  },
+  {
+    "title": "Star Realms",
+    "description": "Star Realms is a spaceship combat deck-building game by Magic Hall of Famers Darwin Kastle (The Battle for Hill 218) and Rob Dougherty (Ascension Co-designer).<br><br>Star Realms is a fast paced deck-building card game of outer space combat. It combines the fun of a deck-building game with the interactivity of Trading Card Game style combat. As you play, you make use of Trade to acquire new Ships and Bases from the cards being turned face up in the Trade Row from the Trade Deck. You use the Ships and Bases you acquire to either generate more Trade or to generate Combat to attack your opponent and their bases. When you reduce your opponent’s score (called Authority) to zero, you win!",
+    "img": "star_realms.jpg",
+    "complexity": 1.97,
+    "min_length": 20,
+    "max_length": 20,
+    "min_players": 2,
+    "max_players": 2
+  },
+  {
+    "title": "Sushi Go Party",
+    "description": "Sushi Go Party!, an expanded version of the best-selling card game Sushi Go!, is a party platter of mega maki, super sashimi, and endless edamame. You still earn points by picking winning sushi combos, but now you can customize each game by choosing à la carte from a menu of more than twenty delectable dishes. What's more, up to eight players can join in on the sushi-feast. Let the good times roll!",
+    "img": "sushi_go_party.jpg",
+    "complexity": 1.34,
+    "min_length": 20,
+    "max_length": 20,
+    "min_players": 2,
+    "max_players": 8
+  },
+  {
+    "title": "Hanabi",
+    "description": "Hanabi—named for the Japanese word for \"fireworks\"—is a cooperative game in which players try to create the perfect fireworks show by placing the cards on the table in the right order. (In Japanese, hanabi is written as 花火; these are the ideograms flower and fire, respectively.)<br><br>The card deck consists of five different colors of cards, numbered 1–5 in each color. For each color, the players try to place a row in the correct order from 1–5. Sounds easy, right? Well, not quite, as in this game you hold your cards so that they're visible only to other players. To assist other players in playing a card, you must give them hints regarding the numbers or the colors of their cards. Players must act as a team to avoid errors and to finish the fireworks display before they run out of cards.",
+    "img": "hanabi.jpg",
+    "complexity": 1.7,
+    "min_length": 25,
+    "max_length": 25,
+    "min_players": 2,
+    "max_players": 5
+  },
+  {
+    "title": "7 Wonders",
+    "description": "You are the leader of one of the 7 great cities of the Ancient World. Gather resources, develop commercial routes, and affirm your military supremacy. Build your city and erect an architectural wonder which will transcend future times.<br><br>7 Wonders lasts three ages. In each age, players receive seven cards from a particular deck, choose one of those cards, then pass the remainder to an adjacent player. Players reveal their cards simultaneously, paying resources if needed or collecting resources or interacting with other players in various ways. (Players have individual boards with special powers on which to organize their cards, and the boards are double-sided). Each player then chooses another card from the deck they were passed, and the process repeats until players have six cards in play from that age. After three ages, the game ends.<br><br>In essence, 7 Wonders is a card development game. Some cards have immediate effects, while others provide bonuses or upgrades later in the game. Some cards provide discounts on future purchases. Some provide military strength to overpower your neighbors and others give nothing but victory points. Each card is played immediately after being drafted, so you'll know which cards your neighbor is receiving and how his choices might affect what you've already built up. Cards are passed left-right-left over the three ages, so you need to keep an eye on the neighbors in both directions.",
+    "img": "7_wonders.jpg",
+    "complexity": 2.34,
+    "min_length": 30,
+    "max_length": 30,
+    "min_players": 2,
+    "max_players": 7
+  },
+  {
+    "title": "7 Wonders: Duel",
+    "description": "One of the most celebrated games in the world can now be experienced in a two-player arena. 7 Wonders Duel takes the game play and excitement of the original and adapts it for one-on-one battles. Take control of your civilization and decide to invest in science, military or prestige. Two new ways to win will keep you on your toes and watching every move your opponent makes. If you fail to build defenses your capital city may be destroyed, but ignore technology and your people may be left in the dark ages. It's a constant tug of war. 7 Wonders Duel is an exciting new way to play the game that took the world by storm. Great for both fans of the original and those new to the hobby.",
+    "img": "7_wonders_duel.jpg",
+    "complexity": 2.23,
+    "min_length": 30,
+    "max_length": 30,
+    "min_players": 2,
+    "max_players": 2
+  },
+  {
+    "title": "Battle Line",
+    "description": "Two opponents face off across a 'battle line' and attempt to win the battle by taking 5 of 9 flags or 3 adjacent flags. Flags are decided by placing cards into 3 card poker-type hands on either side of the flag (similar to straight flush, 3 of a kind, straight, flush, etc). The side with the highest 'formation' of cards wins the flag.",
+    "img": "battle_line.jpg",
+    "complexity": 1.91,
+    "min_length": 30,
+    "max_length": 30,
+    "min_players": 2,
+    "max_players": 2
+  },
+  {
+    "title": "Camel Up",
+    "description": "In Camel Up, up to eight players bet on five racing camels, trying to suss out which will place first and second in a quick race around a pyramid. The earlier you place your bet, the more you can win — should you guess correctly, of course. Camels don't run neatly, however, sometimes landing on top of another one and being carried toward the finish line. Who's going to run when? That all depends on how the dice come out of the pyramid dice shaker, which releases one die at a time when players pause from their bets long enough to see who's actually moving!",
+    "img": "camel_up.jpg",
+    "complexity": 1.48,
+    "min_length": 20,
+    "max_length": 30,
+    "min_players": 2,
+    "max_players": 8
+  },
+  {
+    "title": "Cards Against Humanity",
+    "description": "Cards Against Humanity is a party game for horrible people. Unlike most of the party games you've played before, Cards Against Humanity is as despicable and awkward as you and your friends. <br><br>The game is simple. Each round, one player asks a question from a Black Card, and everyone else answers with their funniest White Card. ",
+    "img": "cards_against_humanity.jpg",
+    "complexity": 1.22,
+    "min_length": 30,
+    "max_length": 30,
+    "min_players": 4,
+    "max_players": 30
+  },
+  {
+    "title": "Cash n' Guns",
+    "description": "In an abandoned warehouse, a band of gangsters is splitting their latest haul, but they can't come to an agreement on the split. It's time to let the guns do the talking, and soon everyone is aiming at everyone? All you have to do is stay alive and have the most money at the end of the game. CA$H'n GUN$ will make you relive the best scenes from gangster movies and other modern detective stories, where the flimsiest excuse serves to let bullets fly. Fun, bluff and negotiations are to be had. Thing is, do you have enough guts to play? This is a game where laughter isn't the only deadly thing?",
+    "img": "cash_n_guns.jpg",
+    "complexity": 1.28,
+    "min_length": 30,
+    "max_length": 30,
+    "min_players": "4",
+    "max_players": "6"
+  },
+  {
+    "title": "Chrononauts",
+    "description": "In Chrononauts, each player becomes a time traveler, with a unique identity and a secret mission. During the game, players travel backwards and forwards through history, doing all those things people have always dreamed of using a time machine to do: Visiting the great moments of the past, peeking into the future, collecting up impossible artifacts and priceless works of art (at the moment just before history records their destruction), coming to grips with the paradoxes of time travel, and of course, changing pivotal events and altering the course of history itself. How would the timeline be different if Lincoln and JFK had not been assassinated? And is that the version of reality that you came from originally...the one you must return to in order to win? It's all packed into a fast and easy Fluxx-style card game that will take you to the beginning of time and back again.",
+    "img": "chrononauts.jpg",
+    "complexity": 1.84,
+    "min_length": 30,
+    "max_length": 30,
+    "min_players": 1,
+    "max_players": 6
+  },
+  {
+    "title": "Dixit",
+    "description": "One player is the storyteller for the turn and looks at the images on the 6 cards in her hand. From one of these, she makes up a sentence and says it out loud (without showing the card to the other players).<br><br>Each other player selects the card in their hands which best matches the sentence and gives the selected card to the storyteller, without showing it to the others.<br><br>The storyteller shuffles her card with all the received cards. All pictures are shown face up and every player has to bet upon which picture was the storyteller's.<br><br>If nobody or everybody finds the correct card, the storyteller scores 0, and each of the other players scores 2. Otherwise the storyteller and whoever found the correct answer score 3. Players score 1 point for every vote for their own card.<br><br>The game ends when the deck is empty or if a player scores 30 points. In either case, the player with the most points wins the game.",
+    "img": "dixit.jpg",
+    "complexity": 1.24,
+    "min_length": 30,
+    "max_length": 30,
+    "min_players": 3,
+    "max_players": 6
+  },
+  {
+    "title": "Dominion",
+    "description": "You are a monarch, like your parents before you, a ruler of a small pleasant kingdom of rivers and evergreens. Unlike your parents, however, you have hopes and dreams! You want a bigger and more pleasant kingdom, with more rivers and a wider variety of trees. You want a Dominion! In all directions lie fiefs, freeholds, and feodums. All are small bits of land, controlled by petty lords and verging on anarchy. You will bring civilization to these people, uniting them under your banner.<br><br>But wait! It must be something in the air; several other monarchs have had the exact same idea. You must race to get as much of the unclaimed land as possible, fending them off along the way. To do this you will hire minions, construct buildings, spruce up your castle, and fill the coffers of your treasury. Your parents wouldn't be proud, but your grandparents, on your mother's side, would be delighted.",
+    "img": "dominion.jpg",
+    "complexity": 2.37,
+    "min_length": 30,
+    "max_length": 30,
+    "min_players": 2,
+    "max_players": 4
+  },
+  {
+    "title": "Fluxx",
+    "description": "Fluxx is a card game in which the cards themselves determine the current rules of the game. By playing cards, you change numerous aspects of the game: how to draw cards, how to play cards, and even how to win.<br><br>At the start of the game, each player holds three cards and on a turn a player draws one card, then plays one card. By playing cards, you can put new rules into play that change numerous aspects of the game: how many cards to draw or play, how many cards you can hold in hand or keep on the table in front of you, and (most importantly) how to win the game. There are many editions, themed siblings, and promo cards available.",
+    "img": "fluxx.jpg",
+    "complexity": 1.39,
+    "min_length": 5,
+    "max_length": 30,
+    "min_players": 2,
+    "max_players": 6
+  },
+  {
+    "title": "For Sale",
+    "description": "For Sale is a quick, fun game nominally about buying and selling real estate. During the game's two distinct phases, players first bid for several buildings then, after all buildings have been bought, sell the buildings for the greatest profit possible.",
+    "img": "for_sale.jpg",
+    "complexity": 1.28,
+    "min_length": 30,
+    "max_length": 30,
+    "min_players": 3,
+    "max_players": 6
+  },
+  {
+    "title": "King of Tokyo",
+    "description": "In King of Tokyo, you play mutant monsters, gigantic robots, and strange aliens—all of whom are destroying Tokyo and whacking each other in order to become the one and only King of Tokyo.<br><br>At the start of each turn, you roll six dice, which show the following six symbols: 1, 2, or 3 Victory Points, Energy, Heal, and Attack. Over three successive throws, choose whether to keep or discard each die in order to win victory points, gain energy, restore health, or attack other players into understanding that Tokyo is YOUR territory.<br><br>The fiercest player will occupy Tokyo, and earn extra victory points, but that player can't heal and must face all the other monsters alone!<br><br>Top this off with special cards purchased with energy that have a permanent or temporary effect, such as the growing of a second head which grants you an additional die, body armor, nova death ray, and more.... and it's one of the most explosive games of the year!<br><br>In order to win the game, one must either destroy Tokyo by accumulating 20 victory points, or be the only surviving monster once the fighting has ended.",
+    "img": "king_of_tokyo.jpg",
+    "complexity": 1.51,
+    "min_length": 30,
+    "max_length": 30,
+    "min_players": 2,
+    "max_players": 6
+  },
+  {
+    "title": "Kittens in a Blender",
+    "description": "You are twisted. I can’t believe you actually want to put these adorable kittens in a blender! I guess that’s none of my business. Maybe you’re more of a dog person. Sure, kittens are curious by nature, but when they get in a kitchen full of dangerous appliances, it is up to you to save them.<br><br>This fast-paced card game has players working to save all of their own kittens before the unthinkable happens. But sometimes the only way to save your precious litter of kittens is to let those curious little cats learn the lesson of why you should never play in a Blender!",
+    "img": "kittens_in_a_blender.jpg",
+    "complexity": 1.13,
+    "min_length": 30,
+    "max_length": 30,
+    "min_players": 2,
+    "max_players": 4
+  },
+  {
+    "title": "Lost Legacy",
+    "description": "Lost Legacy, an official spin-off of Love Letter, includes two sets of 16 cards: The Starship and Flying Garden. Players can use one set or the other or combine them in various ways to alter the powers available in the game. Shuffle all the cards together (other than the second \"Lost Legacy\"), and you can include up to six players in the same game. Cards from Lost Legacy can also be combined with Lost Legacy: Hyakunen Senso to Ryu no Miko and Lost Legacy: Binbo Tantei to Inbo no Shiro.",
+    "img": "lostlegacy.jpg",
+    "complexity": 1.33,
+    "min_length": 20,
+    "max_length": 30,
+    "min_players": 2,
+    "max_players": 6
+  },
+  {
+    "title": "Machi Koro",
+    "description": "Welcome to the city of Machi Koro. You've just been elected Mayor. Congrats! Unfortunately, the citizens have some pretty big demands: jobs, a theme park, a couple of cheese factories and maybe even a radio tower. A tough proposition since the city currently consists of a wheat field, a bakery, and a single die.<br><br>Armed only with your trusty die and a dream, you must grow Machi Koro into the largest city in the region. You will need to collect income from developments, build public works, and steal from your neighbors' coffers. Just make sure they aren't doing the same to you!<br><br>Machi Koro is a fast-paced game for 2-4 players. Each player wants to develop the city on their own terms in order to complete all of the landmarks under construction faster than their rivals. On their turn, each player rolls one or two dice. If the sum of the dice rolled matches the number of a building that a player owns, they get the effect of that building; in some cases, opponents will also benefit from your die (just as you can benefit from theirs). Then, with money in hand a player can build a landmark or a new building, ideally adding to the wealth of their city on future turns. The first player to construct all of their landmarks wins!",
+    "img": "machi_koro.jpg",
+    "complexity": 1.55,
+    "min_length": 30,
+    "max_length": 30,
+    "min_players": 2,
+    "max_players": 4
+  },
+  {
+    "title": "Patchwork",
+    "description": "Patchwork is a form of needlework that involves sewing together pieces of fabric into a larger design. In the past, it was a way to make use of leftover pieces of cloth to create clothing and quilts. Today, patchwork is a form of art, in which the designers use precious fabrics to create beautiful textiles. The use of uneven pieces of fabric in particular can result in real masterpieces and is therefore being practiced by a large number of textile artists. To create a beautiful quilt, however, requires effort and time, but the available patches just do not want to fit together. So choose your patches carefully and keep a healthy supply of buttons to not only finish your quilt, but to make it better and more beautiful than your opponent‘s.",
+    "img": "patchwork.jpg",
+    "complexity": 1.7,
+    "min_length": 15,
+    "max_length": 30,
+    "min_players": 2,
+    "max_players": 2
+  },
+  {
+    "title": "Perudo",
+    "description": "Perudo is a version of liar dice which is part-luck and part-skill. This exciting game of guesswork, bluff and luck can be played anywhere by anybody, through consummate liars do have an advantage. The combination of deception, skill and laughter make it the perfect after dinner game. There is no board, no setting up and no complicated rules which makes it an ideal travel game. Each player starts by having five dice and a cup, which is used for shaking the dice and concealing your dice from your opponent. This game can be played by two or more players and consist of each player predicting how many dice of certain numbers (one, sixes etc.) is hidden under the cup. The player who loses a round loses one of their dice. The winner is the player who retains a die at the end.",
+    "img": "perudo.jpg",
+    "complexity": 1.26,
+    "min_length": 15,
+    "max_length": 30,
+    "min_players": 2,
+    "max_players": 6
+  },
+  {
+    "title": "Red7",
+    "description": "The rules of \"Red\" are simple: highest card wins! But \"Red\" is just one of seven games you'll be playing in Red7, and if you're not winning the current game at the end of your turn, you're out! The last person standing wins the round.<br><br>The deck in Red7 is 49 cards: each of the colors of the rainbow numbered 1 to 7. A hand takes just a couple minutes!",
+    "img": "red7.jpg",
+    "complexity": 1.67,
+    "min_length": 5,
+    "max_length": 30,
+    "min_players": 2,
+    "max_players": 4
+  },
+  {
+    "title": "The Resistance: Avalon",
+    "description": "The Resistance: Avalon pits the forces of Good and Evil in a battle to control the future of civilization. Arthur represents the future of Britain, a promise of prosperity and honor, yet hidden among his brave warriors are Mordred's unscrupulous minions. These forces of evil are few in number but have knowledge of each other and remain hidden from all but one of Arthur's servants. Merlin alone knows the agents of evil, but he must speak of this only in riddles. If his true identity is discovered, all will be lost",
+    "img": "avalon.jpg",
+    "complexity": 1.78,
+    "min_length": 30,
+    "max_length": 30,
+    "min_players": 5,
+    "max_players": 10
+  },
+  {
+    "title": "Saboteur",
+    "description": "You and your Dwarven brethren dig for gold in the depths of a mine. Suddenly a pick-axe breaks and the light from the lantern goes out. The saboteur has struck again - but which of your fellow players is a saboteur? Discover the traitor in your midst while questing for gold in this path-laying card game for 3-10 suspicious dwarves.",
+    "img": "saboteur.jpg",
+    "complexity": 1.33,
+    "min_length": 30,
+    "max_length": 30,
+    "min_players": 3,
+    "max_players": 10
+  },
+  {
+    "title": "Splendor",
+    "description": "Splendor is a game of chip-collecting and card development. Players are merchants of the Renaissance trying to buy gem mines, means of transportation, shops—all in order to acquire the most prestige points. If you're wealthy enough, you might even receive a visit from a noble at some point, which of course will further increase your prestige.<br><br>On your turn, you may (1) collect chips (gems), or (2) buy and build a card, or (3) reserve one card. If you collect chips, you take either three different kinds of chips or two chips of the same kind. If you buy a card, you pay its price in chips and add it to your playing area. To reserve a card—in order to make sure you get it, or, why not, your opponents don't get it—you place it in front of you face down for later building; this costs you a round, but you also get gold in the form of a joker chip, which you can use as any gem.<br><br>All of the cards you buy increase your wealth as they give you a permanent gem bonus for later buys; some of the cards also give you prestige points. In order to win the game, you must reach 15 prestige points before your opponents do.",
+    "img": "splendor.jpg",
+    "complexity": 1.82,
+    "min_length": 30,
+    "max_length": 30,
+    "min_players": 2,
+    "max_players": 4
+  },
+  {
+    "title": "Telestrations",
+    "description": "Each player begins by sketching a TELESTRATIONS word dictated by the roll of a die. The old fashioned sand timer may limit the amount of time they get to execute their sketch, but it certainly doesn't limit creativity! Time's up! All players, all at the same time, pass their sketch to the next player, who must guess what's been drawn. Players then simultaneously pass their guess -- which hopefully matches the original word (or does it??) -- to the next player who must try to draw the word they see -- and so on.<br><br>Telestrations contains eight erasable sketchbooks and markers, a die, a 90 second sand-timer and 2,400 words to choose from.",
+    "img": "telestrations.jpg",
+    "complexity": 1.09,
+    "min_length": 30,
+    "max_length": 30,
+    "min_players": 4,
+    "max_players": 8
+  },
+  {
+    "title": "BANG!",
+    "description": "The Outlaws hunt the Sheriff. The Sheriff hunts the Outlaws. The Renegade plots secretly, ready to take one side or the other. Bullets fly. Who among the gunmen is a Deputy, ready to sacrifice himself for the Sheriff? And who is a merciless Outlaw, willing to kill him? If you want to find out, just draw (your cards)!",
+    "img": "bang.jpg",
+    "complexity": 1.64,
+    "min_length": 20,
+    "max_length": 40,
+    "min_players": 4,
+    "max_players": 7
+  },
+  {
+    "title": "Dice Forge",
+    "description": "Heroes, stand ready! The gods are offering a seat in heaven to whichever hero defeats their rivals. Your courage and wits will be your most precious allies as you use divine dice to gather resources along the road to victory.<br><br>Your divine dice are exceptional, with removable faces! Customize your dice to make them more powerful as the game progresses. Sacrifice gold to the gods to obtain enhanced die faces. Upgrade your dice to produce the resources you need. Overcome ordeals concocted by the gods to grow in glory and earn rewards. Skillfully manage the luck of the dice and take charge of your destiny. Only the greatest will ascend to the heavens!<br><br>Dice Forge is a development game featuring innovative mechanics based on dice with removable faces. In this dice crafting game, players build their own dice. Roll your dice, manage your resources, complete ordeals before your opponents and explore multiple winning strategies.<br><br>Now you control the luck of the dice!",
+    "img": "dice_forge.jpg",
+    "complexity": 1.91,
+    "min_length": 40,
+    "max_length": 40,
+    "min_players": 2,
+    "max_players": 4
+  },
+  {
+    "title": "Three Cheers for Master",
+    "description": "Master has been blue lately. It's just not the same now that all lands known to evil have been conquered — and when Master's blue, it's the minions who suffer.<br><br>As a lieutenant in Master's army — a foreminion — it falls to you to cheer him up. Not the easiest task, even in the best of times. But then it hit you: What better way to cheer Master up than a cheerleading competition?<br><br>Whichever foreminion builds and scales the most impressive tower of war-hungry minions in Three Cheers for Master will surely win Master's heart. What could possibly go wrong?",
+    "img": "three_cheers_for_master.jpg",
+    "complexity": 1.75,
+    "min_length": 20,
+    "max_length": 40,
+    "min_players": 2,
+    "max_players": 6
+  },
+  {
+    "title": "Tortuga 1667",
+    "description": "The year is 1667 and you are a pirate sailing the waters of the Caribbean. A Spanish Galleon floats nearby, and you've talked your crewmates into working together to steal all of its treasure. What you haven't told your fellow pirates is that you have no intentions on sharing the treasure once you have it.<br><br>Tortuga 1667 is a strategy/social-deduction game for 2-9 players. It comes in a faux book box and the rubber playing mat rolls up to disguise itself as a treasure map. In the game each player has a secret loyalty card, so deciding who you can trust is pivotal. Players will use their Vote cards to attack the Spanish for treasure, mutiny against selfish captains, and brawl against their fellow pirates. Players may also reveal Event cards such as a Letter of Marque or Pistol during the game to help their team and to hurt their enemies. But beware, if you reveal the Black Spot you'll be marooned to Tortuga. When the Spanish Armada card is revealed, the team with the most treasure wins. ",
+    "img": "tortuga.jpg",
+    "complexity": 2,
+    "min_length": 20,
+    "max_length": 40,
+    "min_players": 2,
+    "max_players": 9
+  },
+  {
+    "title": "Treasure Hunter",
+    "description": "Get as much valuable treasure and coins as you can as everything counts at the end of this five-round game! Watch out for treasure that isn't treasure at all, and draft your team of treasure hunters wisely. Only two treasures are available in each of the three seasons, so get it while you can!<br><br>In Treasure Hunter, treasures are placed on the game board first. Then all players are given a hand of nine cards from which to draft, drawing one card and passing to the left or the right depending on which round is being played. At the end of drafting, all players will have a hand of nine cards and a little knowledge of what the other players may have in their hands as well.<br><br>All players must play any and all cards from their drafted hand of nine for each season they have cards for, whether they want one of the two treasures or not.",
+    "img": "treasure_hunter.jpg",
+    "complexity": 1.86,
+    "min_length": 40,
+    "max_length": 40,
+    "min_players": 2,
+    "max_players": 6
+  },
+  {
+    "title": "Azul",
+    "description": "Introduced by the Moors, azulejos (originally white and blue ceramic tiles) were fully embraced by the Portuguese when their king Manuel I, on a visit to the Alhambra palace in Southern Spain, was mesmerized by the stunning beauty of the Moorish decorative tiles. The king, awestruck by the interior beauty of the Alhambra, immediately ordered that his own palace in Portugal be decorated with similar wall tiles. As a tile-laying artist, you have been challenged to embellish the walls of the Royal Palace of Evora.<br><br>In the game Azul, players take turns drafting colored tiles from suppliers to their player board. Later in the round, players score points based on how they've placed their tiles to decorate the palace. Extra points are scored for specific patterns and completing sets; wasted supplies harm the player's score. The player with the most points at the end of the game wins.",
+    "img": "azul.jpg",
+    "complexity": 1.81,
+    "min_length": 30,
+    "max_length": 45,
+    "min_players": 2,
+    "max_players": 4
+  },
+  {
+    "title": "Carcassonne",
+    "description": "Carcassonne is a tile-placement game in which the players draw and place a tile with a piece of southern French landscape on it. The tile might feature a city, a road, a cloister, grassland or some combination thereof, and it must be placed adjacent to tiles that have already been played, in such a way that cities are connected to cities, roads to roads, etcetera. Having placed a tile, the player can then decide to place one of his meeples on one of the areas on it: on the city as a knight, on the road as a robber, on a cloister as a monk, or on the grass as a farmer. When that area is complete, that meeple scores points for its owner.<br><br>During a game of Carcassonne, players are faced with decisions like: \"Is it really worth putting my last meeple there?\" or \"Should I use this tile to expand my city, or should I place it near my opponent instead, giving him a hard time to complete his project and score points?\" Since players place only one tile and have the option to place one meeple on it, turns proceed quickly even if it is a game full of options and possibilities.",
+    "img": "carcassonne.jpg",
+    "complexity": 1.93,
+    "min_length": 30,
+    "max_length": 45,
+    "min_players": 2,
+    "max_players": 5
+  },
+  {
+    "title": "Forbidden Desert",
+    "description": "Gear up for a thrilling adventure to recover a legendary flying machine buried deep in the ruins of an ancient desert city. You'll need to coordinate with your teammates and use every available resource if you hope to survive the scorching heat and relentless sandstorm. Find the flying machine and escape before you all become permanent artifacts of the forbidden desert!<br><br>In Forbidden Desert, a thematic sequel to Forbidden Island, players take on the roles of brave adventurers who must throw caution to the wind and survive both blistering heat and blustering sand in order to recover a legendary flying machine buried under an ancient desert city. While featuring cooperative gameplay similar to Forbidden Island, Forbidden Desert is a fresh, new game based around an innovative set of mechanisms such as an ever-shifting board, individual resource management, and a unique method for locating the flying machine parts.",
+    "img": "forbidden_desert.jpg",
+    "complexity": 2.04,
+    "min_length": 45,
+    "max_length": 45,
+    "min_players": 2,
+    "max_players": 5
+  },
+  {
+    "title": "Pandemic",
+    "description": "In Pandemic, several virulent diseases have broken out simultaneously all over the world! The players are disease-fighting specialists whose mission is to treat disease hotspots while researching cures for each of four plagues before they get out of hand.<br><br>The game board depicts several major population centers on Earth. On each turn, a player can use up to four actions to travel between cities, treat infected populaces, discover a cure, or build a research station. A deck of cards provides the players with these abilities, but sprinkled throughout this deck are Epidemic! cards that accelerate and intensify the diseases' activity. A second, separate deck of cards controls the \"normal\" spread of the infections.<br><br>Taking a unique role within the team, players must plan their strategy to mesh with their specialists' strengths in order to conquer the diseases. For example, the Operations Expert can build research stations which are needed to find cures for the diseases and which allow for greater mobility between cities; the Scientist needs only four cards of a particular disease to cure it instead of the normal five—but the diseases are spreading quickly and time is running out. If one or more diseases spread beyond recovery or if too much time elapses, the players all lose. If they cure the four diseases, they all win!",
+    "img": "pandemic.jpg",
+    "complexity": 2.42,
+    "min_length": 45,
+    "max_length": 45,
+    "min_players": 2,
+    "max_players": 4
+  },
+  {
+    "title": "Portal: The Uncooperative Cake Acquisition Game",
+    "description": "With a grinding of gears and some uneasy rumbling, Aperture Laboratories has resumed testing! Your team of test subjects has entered the Lab and is ready to perform all sorts of important, dignified, and dangerous testing procedures...all in the pursuit of cake! It's a fun and funny fast-paced fight to the finish — and by finish, we mean your team probably died.<br><br>The Lab is an ever-changing conveyor belt of death and dismemberment. But SCIENTIFIC PROGRESS must be at the forefront of the mind of every good test subject. In Portal: The Uncooperative Cake Acquisition Game, a game of constantly shifting area control and card play by the creators of the Portal and Portal 2 video games, players move and Portal their test subjects to various chambers in the lab. At the end of each player's turn, one of the chambers on the end of the lab gives way, plunging all test subjects on it into oblivion. But should your test subjects have numbered greater than all others in the falling chamber, they earn you some wonderful parting gifts, which can include cake.<br><br>Yet these moist slices of industrial-grade cake must be stored in the lab where they are at risk of falling into said oblivion. Not to mention that your jealous opponents can pick up your cake and move it closer to that precipice. He who has acquired the most cake when a team has lost its last test subject wins. Do you risk gathering cake early for a quick win? Or do you bide your time and wait until you can protect it better? Win the game and prove the cake was no lie.",
+    "img": "portal.jpg",
+    "complexity": 2.17,
+    "min_length": 30,
+    "max_length": 45,
+    "min_players": 2,
+    "max_players": 4
+  },
+  {
+    "title": "Red Dragon Inn",
+    "description": "In Red Dragon Inn, you and your friends are a party of heroic, fantasy adventurers. You've raided the dungeon, killed the monsters, and taken their treasure. Now you're back, and what better way to celebrate your most recent victory than to spend an evening at the Red Dragon Inn. You and your adventuring companions will spend the night drinking, gambling, and roughhousing. The last person who is both sober enough to remain conscious and shrewd enough to hold onto his Gold Coins wins the game.<br><br>The four characters are Deirdre the Priestess, Fiona the Volatile, Gerki the Sneak, and Zot the Wizard.",
+    "img": "red_dragon_inn.jpg",
+    "complexity": 1.67,
+    "min_length": 45,
+    "max_length": 45,
+    "min_players": 2,
+    "max_players": 4
+  },
+  {
+    "title": "Roll for the Galaxy",
+    "description": "Roll for the Galaxy is a dice game of building space empires for 2–5 players. Your dice represent your populace, whom you direct to develop new technologies, settle worlds, and ship goods. The player who best manages his workers and builds the most prosperous empire wins!",
+    "img": "roll_for_the_galaxy.jpg",
+    "complexity": 2.76,
+    "min_length": 45,
+    "max_length": 45,
+    "min_players": 2,
+    "max_players": 5
+  },
+  {
+    "title": "Shadow Hunters",
+    "description": "Shadow Hunters is a survival board game set in a devil-filled forest in which three groups of characters—the Shadows, creatures of the night; the Hunters, humans who try to destroy supernatural creatures; and the Neutrals, civilians caught in the middle of this ancient battle—struggle against each other to survive.<br><br>You belong to one of these groups and must conceal your identity from others since you don't know whom you can trust—at least not initially. Over time, though, someone might decipher who you are through your actions or through Hermit cards, or you might even reveal yourself to use your special ability.<br><br>The key to victory is to identify your allies and enemies early because once your identity is revealed, your enemies will attack with impunity using their special abilities like Demolish, Teleport, and Suck Blood or their equipment cards such as the Rusty Broad Ax or Fortune Brooch. This ancient battle comes to a head and only one group will stand victorious—or a civilian, in the right circumstances, might claim victory.",
+    "img": "shadow_hunters.jpg",
+    "complexity": 1.82,
+    "min_length": 45,
+    "max_length": 45,
+    "min_players": 4,
+    "max_players": 8
+  },
+  {
+    "title": "Tokaido",
+    "description": "In Tokaido, each player is a traveler crossing the \"East sea road\", one of the most magnificent roads of Japan. While traveling, you will meet people, taste fine meals, collect beautiful items, discover great panoramas, and visit temples and wild places but at the end of the day, when everyone has arrived at the end of the road you'll have to be the most initiated traveler – which means that you'll have to be the one who discovered the most interesting and varied things.<br><br>The potential action spaces in Tokaido are laid out on a linear track, with players advancing down this track to take actions. The player who is currently last on the track takes a turn by advancing forward on the track to their desired action and taking that action. So, players must choose whether to advance slowly in order to get more turns, or to travel more rapidly to beat other players to their desired action spaces.<br><br>The action spaces allow a variety of actions that will score in different, but roughly equal, ways. Some action spaces allow players to collect money, while others offer players a way to spend that money to acquire points. Other action spaces allow players to engage in various set collections that score points for assembling those sets. Some action spaces simply award players points for stopping on them, or give the player a randomly determined action from all of the other types.<br><br>All of the actions in Tokaido are very simple, and combined with a unique graphic design, Tokaido offers players a peaceful zen mood in its play.",
+    "img": "tokaido.jpg",
+    "complexity": 1.76,
+    "min_length": 45,
+    "max_length": 45,
+    "min_players": 2,
+    "max_players": 5
+  },
+  {
+    "title": "Balderdash",
+    "description": "A clever repackaging of the parlor game Dictionary, Balderdash contains several cards with real words nobody has heard of. After one of those words has been read aloud, players try to come up with definitions that at least sound plausible, because points are later awarded for every opposing player who guessed that your definition was the correct one.",
+    "img": "balderdash.jpg",
+    "complexity": 1.41,
+    "min_length": 60,
+    "max_length": 60,
+    "min_players": 2,
+    "max_players": 6
+  },
+  {
+    "title": "Betrayal at House on the Hill",
+    "description": "Betrayal at House on the Hill quickly builds suspense and excitement as players explore a haunted mansion of their own design, encountering spirits and frightening omens that foretell their fate. With an estimated one hour playing time, Betrayal at House on the Hill is ideal for parties, family gatherings or casual fun with friends.<br><br>Betrayal at House on the Hill is a tile game that allows players to build their own haunted house room by room, tile by tile, creating a new thrilling game board every time. The game is designed for three to six people, each of whom plays one of six possible characters.<br><br>Secretly, one of the characters betrays the rest of the party, and the innocent members of the party must defeat the traitor in their midst before it’s too late! Betrayal at House on the Hill will appeal to any game player who enjoys a fun, suspenseful, and strategic game.<br><br>Betrayal at House on the Hill includes detailed game pieces, including character cards, pre-painted plastic figures, and special tokens, all of which help create a spooky atmosphere and streamline game play.",
+    "img": "betrayal_at_house_on_the_hill.jpg",
+    "complexity": 2.73,
+    "min_length": 60,
+    "max_length": 60,
+    "min_players": 3,
+    "max_players": 6
+  },
+  {
+    "title": "Black Fleet",
+    "description": "Pirates, merchants, and even the occasional captain of a Navy ship all seek glory and fortune on the Caribbean seas!<br><br>In the tactical card-driven board game Black Fleet, you're in command of three different types of ships: your merchant ship earns you doubloons by conveying goods from one port to another, your pirate ship by attacking and stealing goods from merchants and burying them on islands, and the Navy ships by sinking your opponents' pirate ships. With your (not-always-honestly-won) money, you'll improve your ships by buying advancement cards, giving you powerful additional abilities.<br><br>Outwit your opponents with fortune cards and combos, earn money faster than they do, and pay the ransom for the governor's daughter to win the game!",
+    "img": "black_fleet.jpg",
+    "complexity": 1.94,
+    "min_length": 60,
+    "max_length": 60,
+    "min_players": 3,
+    "max_players": 4
+  },
+  {
+    "title": "Captain Sonar",
+    "description": "At the bottom of the ocean, no one will hear you scream!<br><br>In Captain Sonar, you and your teammates control a state-of-the-art submarine and are trying to locate an enemy submarine in order to blow it out of the water before they can do the same to you. Every role is important, and the confrontation is merciless. Be organized and communicate because a captain is nothing without his crew: the Chief Mate, the Radio Operator, and the Engineer.<br><br>All the members of a team sit on one side of the table, and they each take a particular role on the submarine, with the division of labor for these roles being dependent on the number of players in the game: One player might be the captain, who is responsible for moving the submarine and announcing some details of this movement; another player is manning the sonar in order to listen to the opposing captain's orders and try to decipher where that sub might be in the water; a third player might be working in the munitions room to prepare torpedoes, mines, and other devices that will allow for combat.<br><br>Captain Sonar can be played in two modes: turn-by-turn or simultaneous. In the latter set-up, all the members of a team take their actions simultaneously while trying to track what the opponents are doing, too. When a captain is ready to launch an attack, the action pauses for a moment to see whether a hit has been recorded — then play resumes with the target having snuck away while the attacker paused or with bits of metal now scattered across the ocean floor.<br><br>Multiple maps are included with varying levels of difficulty.",
+    "img": "captain_sonar.jpg",
+    "complexity": 2.1,
+    "min_length": 45,
+    "max_length": 60,
+    "min_players": 2,
+    "max_players": 8
+  },
+  {
+    "title": "Discworld: Ankh-Morpork",
+    "description": "Martin Wallace and Treefrog Games present Ankh-Morpork, set in the largest city-state in Terry Pratchett's Discworld. Lord Vetinari has disappeared and different factions are trying to take control of the city. Each player has a secret personality with specific victory conditions, which means that you're not sure exactly what the other players need to do in order to win.<br><br>The action takes place on a map of Ankh-Morpork, with players trying to place minions and buildings through card play. Each of the 132 cards is unique, and \"the cards bring the game to life as they include most of the famous characters that have appeared in the various books. The rules are relatively simple: Play a card and do what it says. Most cards have more than one action on them, and you can choose to do some or all of these actions. Some cards also allow you to play a second card, so you can chain actions\" (Wallace).<br><br>A team of artists have recreated the city and its residents for the cards, game board and box, with Bernard Pearson coordinating that team. Ankh-Morpork has been sublicensed to Mayfair Games for the North American market and Kosmos for the German market.",
+    "img": "discworld.jpg",
+    "complexity": 2.22,
+    "min_length": 60,
+    "max_length": 60,
+    "min_players": 2,
+    "max_players": 4
+  },
+  {
+    "title": "Race for the Galaxy",
+    "description": "In the card game Race for the Galaxy, players build galactic civilizations by playing game cards in front of them that represent worlds or technical and social developments. Some worlds allow players to produce goods, which can be consumed later to gain either card draws or victory points when the appropriate technologies are available to them. These are mainly provided by the developments and worlds that are not able to produce, but the fancier production worlds also give these bonuses.<br><br>At the beginning of each round, players each select, secretly and simultaneously, one of the seven roles which correspond to the phases in which the round progresses. By selecting a role, players activate that phase for this round, giving each player the opportunity to perform that phase's action. For example, if one player chooses the settle role, each player has the opportunity to settle one of the planets from their hand. The player who has chosen the role, however, gets a bonus that applies only to them. But bonuses may also be acquired through developments, so you must be aware when another player also takes advantage of your choice of role.",
+    "img": "race_for_the_galaxy.jpg",
+    "complexity": 2.98,
+    "min_length": 30,
+    "max_length": 60,
+    "min_players": 2,
+    "max_players": 4
+  },
+  {
+    "title": "Sentinels of the Multiverse",
+    "description": "A mad scientist holds the world hostage with his terrifying inventions. An alien warlord from a far away galaxy brings his limitless army of bizarre minions to conquer the planet. A giant rampaging robot cuts a swath of destruction across the coast, destroying major population centers. And who will stand in their way? A team of heroes, all with impressive powers and abilities stand between the world and the forces of evil. Will you help them? Answer the call to protect the multiverse!>br><br>Sentinels of the Multiverse is a cooperative, fixed-deck card game with a comic book flavor. Each player plays as one of ten heroes, against one of four villains, and the battle takes place in one of four different dynamic environments.<br><br>Each player, after selecting one of the heroes, plays a deck of 40 cards against the villain and environment decks, which \"play themselves\", requiring the players to put the top card of the appropriate deck into play on the villain and environment turns. On each player's turn, they may play a card from their hand, use a power printed on one of their cards in play, and draw a card from their deck. Each round starts with the villain turn, continues clockwise around the table, then concludes with the environment turn. Each villain has various advantages, such as starting with certain cards in play, as specified by the villain character card. Play continues until the heroes reduce the villain to 0 or fewer HP, or until the villain defeats the heroes, either via a win condition or by reducing all the heroes to 0 or fewer HP.",
+    "img": "sentinels.jpg",
+    "complexity": 2.5,
+    "min_length": 30,
+    "max_length": 60,
+    "min_players": 2,
+    "max_players": 5
+  },
+  {
+    "title": "Theomachy: The Warrior Gods",
+    "description": "When gods fight, human blood flows. Theomachy: The Warrior Gods lets you take the place of a high god – lord of a group of devoted followers. You have one goal and one goal only: annihilate your foes' believers and seize absolute power.<br><br>Achieve this task by staking the souls of your followers, using the same bluff, psychology, and tactics that have made Texas Hold 'em Poker the world's premier card game. Once you seize victory, you can rest, and listen to the cheerful song of your people. You have won the clash of the gods. You have won Theomachy.<br><br>Theomachy: The Warrior Gods is a card game for 2-4 players and it contains four pantheons: Celtic, Norse, Slavonic, and the Great Old Ones from Howard Phillips Lovecraft's Cthulhu Mythos. It is completely compatible with the other Theomachy game, Theomachy: The Ancients. You can freely mix and match cards, Gods, and myth items form the two games – plus with both of them you can play with up to 8 people at the same time!",
+    "img": "theomachy.jpg",
+    "complexity": 2.5,
+    "min_length": 30,
+    "max_length": 60,
+    "min_players": 2,
+    "max_players": 4
+  },
+  {
+    "title": "Ticket to Ride",
+    "description": "With elegantly simple gameplay, Ticket to Ride can be learned in under 15 minutes, while providing players with intense strategic and tactical decisions every turn. Players collect cards of various types of train cars they then use to claim railway routes in North America. The longer the routes, the more points they earn. Additional points come to those who fulfill Destination Tickets – goal cards that connect distant cities; and to the player who builds the longest continuous route.",
+    "img": "ticket_to_ride.jpg",
+    "complexity": 1.87,
+    "min_length": 30,
+    "max_length": 60,
+    "min_players": 2,
+    "max_players": 5
+  },
+  {
+    "title": "Wiz-War",
+    "description": "In Wiz-War, wizards wage no-spells-barred magical duels deep in an underground labyrinth. This classic board game of magical mayhem for 2-4 players, created by Tom Jolly in 1983, pits players' wizards against each other in a stupendous struggle for magical mastery. Win by stealing other wizards' treasures and hauling them back to your base, or just score points by blasting the other wizards. The last wizard standing always wins.<br><br>Staying true to the spirit of the game that has entertained players for years, as well inspiring an entire genre of games, this 2011 edition of Wiz-War caters to the imagination and the funny bone. Casting an enriched array of spells, your wizards race through an underground maze, avoiding fireballs, werewolves, and psychic storms. Subtle game enhancements by Kevin Wilson and Tom Jolly promote faster play and clarify card effects.",
+    "img": "wiz_war.jpg",
+    "complexity": 2.31,
+    "min_length": 30,
+    "max_length": 60,
+    "min_players": 2,
+    "max_players": 4
+  },
+  {
+    "title": "Small World",
+    "description": "n Small World, players vie for conquest and control of a world that is simply too small to accommodate them all.<br><br>Designed by Philippe Keyaerts as a fantasy follow-up to his award-winning Vinci, Small World is inhabited by a zany cast of characters such as dwarves, wizards, amazons, giants, orcs, and even humans, who use their troops to occupy territory and conquer adjacent lands in order to push the other races off the face of the earth.<br><br>Picking the right combination from the 14 different fantasy races and 20 unique special powers, players rush to expand their empires - often at the expense of weaker neighbors. Yet they must also know when to push their own over-extended civilization into decline and ride a new one to victory!<br><br>On each turn, you either use the multiple tiles of your chosen race (type of creatures) to occupy adjacent (normally) territories - possibly defeating weaker enemy races along the way, or you give up on your race letting it go \"into decline\". A race in decline is designated by flipping the tiles over to their black-and-white side.<br><br>At the end of your turn, you score one point (coin) for each territory your races occupy. You may have one active race and one race in decline on the board at the same time. Your occupation total can vary depend on the special abilities of your race and the territories they occupy. After the final round, the player with the most coins wins.",
+    "img": "small_world.jpg",
+    "complexity": 2.37,
+    "min_length": 40,
+    "max_length": 80,
+    "min_players": 2,
+    "max_players": 5
+  },
+  {
+    "title": "Alien Frontiers",
+    "description": "A new frontier awaits!<br><br>Do you have what it takes to be a deep space colonist? An alien frontier awaits the brave and daring! This new planet will be harsh, but if you have the skills to manage your resources, build a fleet, research alien life, and settle colonies, the world can be yours.<br><br>lien Frontiers is a game of resource management and planetary development for two to four players. During the game, you will utilize orbital facilities and alien technology to build colony domes in strategic locations to control the newly discovered world.<br><br>Roll and place your dice to gain advantages over your opponent and block them out of useful areas of the board. Use Alien Tech cards to manipulate your dice rolls and territory bonuses to break the rules. Steal resources, overtake territories, and do whatever it takes to get your colonies on the map first! Don't dream it'll be easy, though, because the other players will be trying to do the same thing...",
+    "img": "alien_frontiers.jpg",
+    "complexity": 2.57,
+    "min_length": 90,
+    "max_length": 90,
+    "min_players": 2,
+    "max_players": 4
+  },
+  {
+    "title": "Disturbed Friends",
+    "description": "Disturbed Friends is an adult party game designed to find out how disturbed your friends are, but, more importantly, how disturbed they think you are.<br><br>You will be faced with horrible situations, sexual scenarios and unethical debates that may cause you to re-evaluate your friendships.<br><br>Each player receives a Set of Voting cards. On your turn, you pick a Question Card and read it out loud. Your friends simply vote on which answer they believe you will choose and place their vote face down. Once all players have voted, you indicate your answer. Each player turns over their card revealing the answer they think you chose. Players that predicted your answer correctly receive a #winning Card. The first player to get 10 #winning cards wins!",
+    "img": "disturbed_friends.jpg",
+    "complexity": 1,
+    "min_length": 10,
+    "max_length": 90,
+    "min_players": 4,
+    "max_players": 10
+  },
+  {
+    "title": "Mission: Red Planet",
+    "description": "With technology rapidly developing and the human population growing, Victorian-era Earth is in dire need of fuel, land, and other natural resources. Fortunately, automated probes sent to Mars have discovered celerium, an ore that can be combusted to produce ten thousand times more power than a steam engine, and sylvanite, the densest substance ever found. More incredibly, the probes found ice that could be used in terraforming the planet, bringing the idea of colonizing Mars even closer to becoming a reality.<br><br>As the head of a mining corporation, these minerals and ice found on Mars could make you unfathomably wealthy – if you can reach them before your competitors. You have ten rounds to send your astronauts into space, occupy the planet's most resource-rich zones, and harvest as much celerium, sylvanite, and ice as possible. At your command is a team of nine professionals. Each has a unique skill set, from helping your astronauts traverse the Red Planet to blowing up spaceships before they launch.<br><br>In each round in Mission: Red Planet, players start by secretly deploying one of their character cards, with this card determining both when they place astronauts on the spaceships awaiting launch to Mars and which special action they take during the round. Each spaceship has a specified destination, and until an astronaut sets foot in a region, no one knows which resource they'll find. Players collect resources (worth points) three times during the game, and they each have a secret mission card that might grant them additional points at game's end. During the game, players might acquire an additional mission or a research card that changes the value of what awaits on Mars.",
+    "img": "mission_red_planet.jpg",
+    "complexity": 2.23,
+    "min_length": 45,
+    "max_length": 90,
+    "min_players": 2,
+    "max_players": 6
+  },
+  {
+    "title": "Stone Age",
+    "description": "The \"Stone Age\" times were hard indeed. In their roles as hunters, collectors, farmers, and tool makers, our ancestors worked with their legs and backs straining against wooden plows in the stony earth. Of course, progress did not stop with the wooden plow. People always searched for better tools and more productive plants to make their work more effective.<br><br>In Stone Age, the players live in this time, just as our ancestors did. They collect wood, break stone and wash their gold from the river. They trade freely, expand their village and so achieve new levels of civilization. With a balance of luck and planning, the players compete for food in this pre-historic time.<br><br>Players use up to ten tribe members each in three phases. In the first phase, players place their men in regions of the board that they think will benefit them, including the hunt, the trading center, or the quarry. In the second phase, the starting player activates each of his staffed areas in whatever sequence he chooses, followed in turn by the other players. In the third phase, players must have enough food available to feed their populations, or they face losing resources or points.",
+    "img": "stone_age.jpg",
+    "complexity": 2.5,
+    "min_length": 60,
+    "max_length": 90,
+    "min_players": 2,
+    "max_players": 4
+  },
+  {
+    "title": "Cuba",
+    "description": "Cuba prior to the revolution: Under turbulent circumstances, the villages of the island strive for independent wealth and influence. Who can buy and sell his products and goods on the domestic market profitably or take in the most on the trading ships? Who can send the right delegate to parliament in order to influence the government legislative process, or erect distilleries, hotels and banks at the right moment to the benefit of his village?<br><br>Whoever has accumulated the most victory points in Cuba by the end of the game wins. Players earn victory points by shipping merchandise from the harbor, but also by erecting and using buildings, and by abiding by the law.",
+    "img": "cuba.jpg",
+    "complexity": 3.27,
+    "min_length": 75,
+    "max_length": 120,
+    "min_players": 2,
+    "max_players": 5
+  },
+  {
+    "title": "Dead of Winter: A Crossroads Game",
+    "description": "\"Crossroads\" is a new series from Plaid Hat Games that tests a group of survivors' ability to work together and stay alive while facing crises and challenges from both outside and inside.<br><br>Dead of Winter: A Crossroads Game, the first game in this series, puts 2-5 players in a small, weakened colony of survivors in a world where most of humanity is either dead or diseased, flesh-craving monsters. Each player leads a faction of survivors with dozens of different characters in the game.<br><br>Dead of Winter is a meta-cooperative psychological survival game. This means players are working together toward one common victory condition — but for each individual player to achieve victory, he must also complete his personal secret objective. This secret objective could relate to a psychological tick that's fairly harmless to most others in the colony, a dangerous obsession that could put the main objective at risk, a desire for sabotage of the main mission, or (worst of all) vengeance against the colony! Certain games could end with all players winning, some winning and some losing, or all players losing. Work toward the group's goal, but don't get walked all over by a loudmouth who's looking out only for his own interests!<br><br>Dead of Winter is an experience that can be accomplished only through the medium of tabletop games. It's a story-centric game about surviving through a harsh winter in an apocalyptic world. The survivors are all dealing with their own psychological imperatives, but must still find a way to work together to fight off outside threats, resolve crises, find food and supplies, and keep the colony's morale up.<br><br>Dead of Winter has players making frequent, difficult, heavily- thematic, wildly-varying decisions that often have them deciding between what is best for the colony and what is best for themselves.",
+    "img": "dead_of_winter.jpg",
+    "complexity": 3,
+    "min_length": 60,
+    "max_length": 120,
+    "min_players": 2,
+    "max_players": 5
+  },
+  {
+    "title": "Lords of Waterdeep",
+    "description": "Waterdeep, the City of Splendors – the most resplendent jewel in the Forgotten Realms, and a den of political intrigue and shady back-alley dealings. In this game, the players are powerful lords vying for control of this great city. Its treasures and resources are ripe for the taking, and that which cannot be gained through trickery and negotiation must be taken by force!",
+    "img": "lords_of_waterdeep.jpg",
+    "complexity": 2.49,
+    "min_length": 60,
+    "max_length": 120,
+    "min_players": 2,
+    "max_players": 5
+  },
+  {
+    "title": "Power Grid",
+    "description": "Power Grid is the updated release of the Friedemann Friese crayon game Funkenschlag. It removes the crayon aspect from network building in the original edition, while retaining the fluctuating commodities market like Crude: The Oil Game and an auction round intensity reminiscent of The Princes of Florence.<br><br>The objective of Power Grid is to supply the most cities with power when someone's network gains a predetermined size. In this new edition, players mark pre-existing routes between cities for connection, and then bid against each other to purchase the power plants that they use to power their cities.<br><br>However, as plants are purchased, newer, more efficient plants become available, so by merely purchasing, you're potentially allowing others access to superior equipment.<br><br>Additionally, players must acquire the raw materials (coal, oil, garbage, and uranium) needed to power said plants (except for the 'renewable' windfarm/ solar plants, which require no fuel), making it a constant struggle to upgrade your plants for maximum efficiency while still retaining enough wealth to quickly expand your network to get the cheapest routes.",
+    "img": "power_grid.jpg",
+    "complexity": 3.28,
+    "min_length": 120,
+    "max_length": 120,
+    "min_players": 2,
+    "max_players": 6
+  },
+  {
+    "title": "Settlers of Catan",
+    "description": "Your adventurous settlers seek to tame the remote but rich isle of Catan. Start by revealing Catan's many harbors and regions: pastures, fields, mountains, hills, forests, and desert. The random mix creates a different board virtually every game. No two games are the same! Embark on a quest to settle the isle of Catan! Guide your settlers to victory by clever trading and cunning development. Use resource combinations- grain, wool, ore, brick, and lumber-to buy handy development cards and build roads, settlements, and cities. Acquire your resources through trades, cards, or lucky dice (even outside your turn). But beware! Someone might cut off your road or buy a monopoly. And you never know when the wily robber might steal some of your precious gains!",
+    "img": "settlers_of_catan.jpg",
+    "complexity": 2.34,
+    "min_length": 60,
+    "max_length": 120,
+    "min_players": 3,
+    "max_players": 4
+  },
+  {
+    "title": "Puerto Rico",
+    "description": "The most critically acclaimed board game of the last twenty years, Puerto Rico continues to wow people with its brilliant mechanics. Each player utilizes different roles - mayor, captain, settler, trader, prospector, craftsman, or builder to score the most victory points with their colony. Players can act on every turn of the game, allowing them to choose between shipping goods for points or building an impressive city. Players must manage their colonists, erect a variety of buildings, build up their plantation, and sell or ship goods. With dozens of options, Puerto Rico is a streamlined game that can be played in about an hour and handles up to five players.",
+    "img": "puerto_rico.jpg",
+    "complexity": 3.29,
+    "min_length": 90,
+    "max_length": 150,
+    "min_players": 2,
+    "max_players": 5
+  },
+  {
+    "title": "Battlestar Galactica",
+    "description": "After the Cylon attack on the Colonies, the battered remnants of the human race are on the run, constantly searching for the next signpost on the road to Earth. They face the threat of Cylon attack from without, and treachery and crisis from within. Humanity must work together if they are to have any hope of survival but how can they, when any of them may, in fact, be a Cylon agent?<br><br>Battlestar Galactica: The Board Game is an exciting game of mistrust, intrigue, and the struggle for survival. Based on the epic and widely-acclaimed new Sci Fi Channel series, Battlestar Galactica: The Board Game puts players in the role of one of ten of their favorite characters from the show. Each playable character has their own abilities and weaknesses, and must all work together in order for humanity to have any hope of survival. However, one or more players in every game secretly side with the Cylons. Players must attempt to expose the traitor while fuel shortages, food contaminations, and political unrest threatens to tear the fleet apart.",
+    "img": "battlestar_galactica.jpg",
+    "complexity": 3.23,
+    "min_length": 120,
+    "max_length": 300,
+    "min_players": 3,
+    "max_players": 6
+  }
+]

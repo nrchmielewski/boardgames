@@ -1,0 +1,66 @@
+<!DOCTYPE HTML>
+<!--
+	Based on Directive and Photon by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>MBSWDFS</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="icon" href='images/favicon.ico'/>
+	</head>
+	<body class="is-preload">
+
+		<!-- Header -->
+			<div id="header">
+				<img src="images/mbs_logo.svg" style="width: 6em; height: 6em;">
+				<h1>MBS Web Database Filtration System</h1>
+			</div>
+
+		<!-- Main -->
+			<div id="main">
+				<header class="major container medium" style="margin: 0 0 0 0; width: 100%;">
+					
+					<!-- Filters -->
+					<form id="filter-form" style="max-width: 30em; margin: 0 auto;">
+						<div class="row">
+							<div class="col-12">
+								<label for="dropdown-players">Players</label>
+								<input type="text" id="num-players" min="1" placeholder="No. of Players" autocomplete="off">
+								<input type="button" onclick="submitParams()" value="Submit"/>
+							</div>
+						</div>
+					</form>
+					
+					
+					
+					<!-- Cards -->
+					<div class="card-container" id="cards" style="margin-top: 0.75em;"></div>
+					
+					<!-- Card Modal -->
+                    <div id="card-modal" class="modal">
+                    	<span class="close">&times;</span>
+                    	<img class="modal-image" id="modal-image">
+                    	<h2 id="modal-title"></h2>
+						<div>
+							<p class="icon fa-user" id="modal-players" style="padding-right: 0.5em; margin-bottom: 0;"></p>
+							<p class="icon fa-clock-o" id="modal-length" style="padding-left: 0.5em; margin-bottom: 0;"></p>
+						</div>
+                    	<p id="modal-desc"></p>
+                    </div>
+				
+				
+				</header>
+			</div>
+
+		<!-- Scripts -->
+		<script src="assets/js/jquery.min.js"></script>
+		<script src="assets/js/browser.min.js"></script>
+		<script src="assets/js/breakpoints.min.js"></script>
+		<script src="assets/js/util.js"></script>
+		<script src="assets/js/main.js"></script>
+	</body>
+</html>
