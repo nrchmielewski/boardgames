@@ -6,30 +6,6 @@
 
 var direction = 1;
 
-(function($) {
-
-	var	$window = $(window),
-		$body = $('body');
-
-	// Breakpoints.
-		breakpoints({
-			wide:      [ '1281px',  '1680px' ],
-			normal:    [ '981px',   '1280px' ],
-			narrow:    [ '841px',   '980px'  ],
-			narrower:  [ '737px',   '840px'  ],
-			mobile:    [ '481px',   '736px'  ],
-			mobilep:   [ null,      '480px'  ]
-		});
-
-	// Play initial animations on page load.
-		$window.on('load', function() {
-			window.setTimeout(function() {
-				$body.removeClass('is-preload');
-			}, 100);
-		});
-
-})(jQuery);
-
 
 var games = [];
 
@@ -37,6 +13,12 @@ $.getJSON("https://nrchmielewski.com/assets/js/data.json", function(json) {
     for(var i = 0; i < json.length; i++) {
     	games.push(json[i]);
 	}
+});
+
+
+$('#filter-form').submit(function( jqEvt ) {
+	jqEvt.preventDefault();
+	submitParams();
 });
 
 
@@ -82,14 +64,14 @@ function appendCards() {
 		// outputs the card if it is valid
         if (valid_players || wild_card) {
 			var card = '<div class="card col-6" id="' + i + '" onclick="openModal(event)">' + '<img src="images/' + f.img + '" onerror="this.src=' + "'images/placeholder.jpg'" + ';" alt="' + f.title + '">'
-			+ '<div class="card-container"><h4><b>' + f.title + '</b></h4><div><p class="icon fa-user" style="float: left;"> '
+			+ '<div class="card-container"><h4><b>' + f.title + '</b></h4><div><p class="icon-user" style="float: left;"> '
 			+ f.min_players;
 			
 			if (f.min_players != f.max_players) {
 				card += '-' + f.max_players;
 			}
 			
-			card += '</p><p class="icon fa-clock-o" style="float: right;"> ' + f.min_length;
+			card += '</p><p class="icon-clock-o" style="float: right;"> ' + f.min_length;
 			
 			if (f.min_length != f.max_length) {
 				card += '-' + f.max_length;
@@ -148,10 +130,3 @@ function changeDirection() {
 	games.reverse();
 	appendCards();
 }
-
-$(function() {
-    $('#filter-form').submit(function( jqEvt ) {
-        jqEvt.preventDefault();
-        submitParams();
-    });
-});

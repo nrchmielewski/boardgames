@@ -1,5 +1,5 @@
-@import url("font-awesome.min.css");
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,400italic,600,600italic,700,700italic");
+@import url("https://fonts.googleapis.com/css?family=Josefin+Sans");
+@import url("font.css");
 
 /*
 	Directive by HTML5 UP
@@ -98,7 +98,7 @@ input, select, textarea {
 
 	body, input, select, textarea {
 		color: #6e6e6e;
-		font-family: 'Source Sans Pro', sans-serif;
+		font-family: 'Josefin Sans', sans-serif;
 		font-size: 16pt;
 		font-weight: 400;
 		line-height: 1.75em;
@@ -132,6 +132,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
+		font-family: 'Josefin Sans', sans-serif;
 		color: #5b5b5b;
 		font-weight: 700;
 		letter-spacing: 0.125em;
@@ -2111,27 +2112,6 @@ input, select, textarea {
 		opacity: 0.5;
 	}
 
-/* Icon */
-
-	.icon {
-		text-decoration: none;
-		border-bottom: none;
-		position: relative;
-	}
-
-		.icon:before {
-			-moz-osx-font-smoothing: grayscale;
-			-webkit-font-smoothing: antialiased;
-			font-family: FontAwesome;
-			font-style: normal;
-			font-weight: normal;
-			text-transform: none !important;
-		}
-
-		.icon > .label {
-			display: none;
-		}
-
 /* Icons */
 
 	ul.icons {
@@ -2253,11 +2233,7 @@ input, select, textarea {
 /* Header */
 
 	#header {
-		background-attachment: scroll;
-		background-image: url("images/overlay.png");
-		background-position: top left;
-		background-repeat: repeat;
-		background-size: auto;
+		background-color: #34495e;
 		color: rgba(255, 255, 255, 0.8);
 		padding: 2em 1em 0 1em;
 		position: relative;
@@ -2439,9 +2415,7 @@ input, select, textarea {
 		/* Header */
 
 			#header {
-				background-attachment: scroll,;
-				background-image: url("images/overlay.png");
-				background-size: auto;
+				background-color: #34495e;
 				padding: 2em;
 			}
 
@@ -2596,8 +2570,7 @@ input, select, textarea {
 		/* Header */
 
 			#header {
-				background-image: url("images/overlay.png");
-				background-size: auto;
+				background-color: #34495e;
 				padding: 2em;
 			}
 
@@ -2775,7 +2748,7 @@ input, select, textarea {
 		.select-wrapper:before {
 			-moz-osx-font-smoothing: grayscale;
 			-webkit-font-smoothing: antialiased;
-			font-family: FontAwesome;
+			font-family: icomoon;
 			font-style: normal;
 			font-weight: normal;
 			text-transform: none !important;
@@ -2842,7 +2815,7 @@ input, select, textarea {
 			input[type="radio"] + label:before {
 				-moz-osx-font-smoothing: grayscale;
 				-webkit-font-smoothing: antialiased;
-				font-family: FontAwesome;
+				font-family: icomoon;
 				font-style: normal;
 				font-weight: normal;
 				text-transform: none !important;
@@ -2937,6 +2910,7 @@ input, select, textarea {
 
     /* Caption of Modal Image (Image Text) - Same Width as the Image */
     #modal-desc, #modal-title {
+		font-family: 'Lato', sans-serif;
         margin: auto;
         display: block;
         width: 80%;
@@ -2952,8 +2926,8 @@ input, select, textarea {
 		text-align: left;
 	}
 
-	#modal-title b {
-		color: #AAAAAA;
+	#modal-title {
+		color: #888888;
 	}
 	
     /* Add Animation - Zoom in the Modal */

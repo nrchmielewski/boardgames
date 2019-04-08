@@ -43,11 +43,11 @@
 					<!-- Card Modal -->
                     <div id="card-modal" class="modal">
                     	<span class="close">&times;</span>
-                    	<img class="modal-image" id="modal-image">
+                    	<img class="modal-image" id="modal-image" onerror="this.src='images/placeholder.jpg'">
                     	<h2 id="modal-title"></h2>
 						<div>
-							<p class="icon fa-user" id="modal-players" style="padding-right: 0.5em; margin-bottom: 0;"></p>
-							<p class="icon fa-clock-o" id="modal-length" style="padding-left: 0.5em; margin-bottom: 0;"></p>
+							<p class="icon-user" id="modal-players" style="padding-right: 0.5em; margin-bottom: 0;"></p>
+							<p class="icon-clock-o" id="modal-length" style="padding-left: 0.5em; margin-bottom: 0;"></p>
 						</div>
                     	<p id="modal-desc"></p>
                     </div>
@@ -58,9 +58,6 @@
 
 		<!-- Scripts -->
 		<script src="assets/js/jquery.min.js"></script>
-		<script src="assets/js/browser.min.js"></script>
-		<script src="assets/js/breakpoints.min.js"></script>
-		<script src="assets/js/util.js"></script>
 		<script src="assets/js/main.js"></script>
 	</body>
 </html>
