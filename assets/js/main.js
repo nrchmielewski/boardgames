@@ -9,7 +9,7 @@ var direction = 1;
 
 var games = [];
 
-$.getJSON("https://nrchmielewski.com/assets/js/data.json", function(json) {
+$.getJSON("https://nrchmielewski.com/boardgames/assets/js/data.json", function(json) {
     for(var i = 0; i < json.length; i++) {
     	games.push(json[i]);
 	}
